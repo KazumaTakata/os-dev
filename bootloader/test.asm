@@ -1,0 +1,1 @@
+db "hello from dick2" ,0
